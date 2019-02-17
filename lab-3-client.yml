@@ -1,0 +1,6 @@
+---
+Spring:
+  Config:
+      key:lucky-word
+Profiles:
+      value: Irish
